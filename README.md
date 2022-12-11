@@ -1,4 +1,5 @@
-# plotly_deployment
+# Plotly_deployment
+Link: http://0.0.0.0:8000/
 
 # INTRODUCTION
 In this project we made use of data samples for different bacterias found in the belly button. We were able to visualize the data samples for each candidate and were further able to narrow our data down to determine the top 10 bacterial speecies found in the belly button.
