@@ -1,4 +1,4 @@
-# Plotly_deployment
+# Belly_button_biodiversity
 
 # INTRODUCTION
 In this project we made use of data samples for different bacterias found in the belly button. We were able to visualize the data samples for each candidate and were further able to narrow our data down to determine the top 10 bacterial species found in the belly button.
