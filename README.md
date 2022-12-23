@@ -3,6 +3,14 @@
 # INTRODUCTION
 In this project we made use of data samples for different bacterias found in the belly button. We were able to visualize the data samples for each candidate and were further able to narrow our data down to determine the top 10 bacterial species found in the belly button.
 
+# Resources
+
+* HTML 
+* JavaScript
+* Plotly
+* D3.js
+* GitHub 
+
 # RESULTS
 1. A bar chart showing the top 10 bacterial specie with the input of any individuals ID.
 
